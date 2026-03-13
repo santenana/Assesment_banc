@@ -27,7 +27,6 @@ Aqui ya esta dentro de la carpeta donde se ejecutara todo, para ello primero vam
 ```bash
 python -m venv venv
 .\venv\Scripts\activate
-source venv/bin/activate
 ```
 una vez creado el ambiente en su carpeta se creara una carpeta con el nombre **venv**, posterior a esto vamos a instalar las dependencias
 ```bash
