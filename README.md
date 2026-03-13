@@ -28,7 +28,7 @@ Aqui ya esta dentro de la carpeta donde se ejecutara todo, para ello primero vam
 python -m venv venv
 .\venv\Scripts\activate
 ```
-una vez creado el ambiente en su carpeta se creara una carpeta con el nombre **venv**, posterior a esto vamos a instalar las dependencias
+una vez creado el ambiente en su carpeta se creara una carpeta con el nombre **venv**, posterior a esto vamos a instalar las dependencias (esto puede tomar unos minutos)
 ```bash
 pip install -r requirements.txt
 ```
